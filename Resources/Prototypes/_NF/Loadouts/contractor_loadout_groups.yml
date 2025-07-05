@@ -99,6 +99,7 @@
   - ContractorClothingUniformJumpskirtLawyerBlack
   - ContractorClothingUniformJumpsuitLawyerGood
   - ContractorClothingUniformJumpskirtLawyerGood
+  - ContractorClothingUniformDrakeIndustriesHauler
   - ContractorClothingUniformRandomPunkCroptop # Punkish (Randomized visuals)
   - ContractorClothingUniformRandomPunkTanktop # Punkish (Randomized visuals)
   - ContractorClothingUniformRandomArmlessNoSkirt # Punkish (Randomized visuals)
@@ -205,6 +206,7 @@
   - ContractorClothingUniformJumpskirtBlueTurtleneckDress
   - ContractorClothingUniformJumpskirtYellowTurtleneckDress
   - ContractorClothingUniformJumpskirtYellowOldDress
+  
 
   fallbacks:
   - ContractorClothingUniformJumpsuitColorGrey
@@ -655,6 +657,7 @@
   - ContractorClothingNeckMantleCE
   - ContractorClothingNeckCloakVoid
   - ContractorClothingNeckBling
+  - ContractorClothingNeckDrakeIndustriesBadge
 
 - type: loadoutGroup
   id: ContractorPDA

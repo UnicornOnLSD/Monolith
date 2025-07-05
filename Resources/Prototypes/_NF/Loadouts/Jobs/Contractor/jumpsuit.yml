@@ -903,6 +903,16 @@
   equipment:
     jumpsuit: ClothingUniformJumpskirtYellowOldDress
 
+- type: loadout
+  id: ContractorClothingUniformDrakeIndustriesHauler
+  name: hauler jumpsuit
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: ContractorT1
+  price: 500
+  equipment:
+    jumpsuit: ClothingUniformDrakeIndustriesHauler
+
 # Punk stuff
 - type: loadout
   id: ContractorClothingUniformRandomPunkCroptop

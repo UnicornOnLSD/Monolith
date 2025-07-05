@@ -3,6 +3,19 @@
   price: 0
   equipment:
     jumpsuit: ClothingUniformJumpsuitPilot
+    
+
+# T1
+
+- type: loadout
+  id: PilotClothingUniformDrakeIndustriesTrucker
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: ContractorT1
+  price: 500
+  equipment:
+    jumpsuit: ClothingUniformDrakeIndustriesTrucker
+   
 
 # T3 "Military"
 - type: loadout

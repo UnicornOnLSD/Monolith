@@ -5934,3 +5934,48 @@ Entries:
   id: 692
   time: '2025-07-05T04:34:05.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1145
+- author: Ark
+  changes:
+    - type: Tweak
+      message: Docked ships no longer cause impact damage to each other.
+  id: 693
+  time: '2025-07-05T11:39:10.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1153
+- author: Ark
+  changes:
+    - type: Add
+      message: Stackable entities now combine in closed containers like crates.
+  id: 694
+  time: '2025-07-05T11:41:40.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1150
+- author: Danchi299
+  changes:
+    - type: Add
+      message: Added stun baton to bounty and less-lethal vendomats.
+    - type: Add
+      message: Added grappling guns for purchase in salvage vendmats.
+    - type: Add
+      message: Added holoflare pistols for purchase in astro and salvage vedomats.
+    - type: Remove
+      message: >-
+        Removed holoflare from less-lethal vendomat. Use salvage and astro
+        vendomats instead.
+  id: 695
+  time: '2025-07-05T11:44:55.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1147
+- author: starch70
+  changes:
+    - type: Remove
+      message: remove M92-X from uplink pending rework (redrover armor rebalance)
+    - type: Fix
+      message: Fixed TSF engineers not being in the TSF company
+  id: 696
+  time: '2025-07-05T12:00:06.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1157
+- author: starch70
+  changes:
+    - type: Add
+      message: Added something only pro engineers deserve.
+  id: 697
+  time: '2025-07-05T12:00:51.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1154

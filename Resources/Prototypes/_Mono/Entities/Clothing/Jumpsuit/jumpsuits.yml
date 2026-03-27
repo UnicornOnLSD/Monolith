@@ -608,3 +608,16 @@
   - type: SuitSensor
     randomMode: false
     mode: SensorVitals
+    
+- type: entity
+  parent: ClothingUniformBase
+  id: MonoClothingUniformJumpsuitMercenary
+  name: mercenary jumspuit
+  description: A run-of-the-mill military jumpsuit in a green forest camouflage made out of affordable textiles.
+  - type: Sprite
+    sprite: _Mono/Clothing/Uniforms/Jumpsuit/mercenary.rsi
+  - type: Clothing
+    sprite: _Mono/Clothing/Uniforms/Jumpsuit/mercenary.rsi
+  - type: SuitSensor
+    randomMode: false
+    mode: SensorVitals

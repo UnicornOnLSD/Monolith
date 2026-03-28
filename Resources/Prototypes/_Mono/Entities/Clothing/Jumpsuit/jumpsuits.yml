@@ -614,6 +614,7 @@
   id: MonoClothingUniformJumpsuitMercenary
   name: mercenary jumspuit
   description: A run-of-the-mill military jumpsuit in a green forest camouflage made out of affordable textiles.
+  components:
   - type: Sprite
     sprite: _Mono/Clothing/Uniforms/Jumpsuit/mercenary.rsi
   - type: Clothing
